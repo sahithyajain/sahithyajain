@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahithya D</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 - 📫 How to reach me **sahithyapadival@gmail.com**
 
