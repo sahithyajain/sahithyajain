@@ -130,15 +130,7 @@ Building modern web applications and exploring AI-powered solutions.
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel"/>
 </a>
 
-<a href="https://vercel.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel"/>
-</a>
-&nbsp; Vercel
 
-<a href="https://www.netlify.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify"/>
-</a>
-&nbsp; Netlify
 
 </p>
 
