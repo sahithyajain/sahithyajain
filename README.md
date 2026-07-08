@@ -14,8 +14,8 @@ Building modern web applications and exploring AI-powered solutions.
 
 - 🎓 MCA Graduate passionate about software development
 - 💻 Aspiring Full Stack Developer building modern web applications
-- 🚀 Hands-on experience with React.js, Next.js, Python, Django, and REST APIs through projects
-- 🤖 Exploring AI, NLP, and Retrieval-Augmented Generation (RAG)
+<!--- 🚀 Hands-on experience with React.js, Next.js, Python, Django, and REST APIs through projects
+- 🤖 Exploring AI, NLP, and Retrieval-Augmented Generation (RAG)-->
 - 🌱 Continuously learning new technologies and improving my development skills
 - 💡 Interested in building real-world software solutions
 
@@ -125,6 +125,20 @@ Building modern web applications and exploring AI-powered solutions.
 <a href="https://jupyter.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
 </a>
+
+<a href="https://vercel.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel"/>
+</a>
+
+<a href="https://vercel.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel"/>
+</a>
+&nbsp; Vercel
+
+<a href="https://www.netlify.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify"/>
+</a>
+&nbsp; Netlify
 
 </p>
 
