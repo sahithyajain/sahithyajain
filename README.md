@@ -11,7 +11,7 @@
 - 🎓 MCA Graduate passionate about software development
 - 💻 Aspiring Full Stack Developer building modern web applications
 - 🌱 Continuously learning new technologies and improving my development skills
-- 💡 Interested in building real-world software solutions
+- 💡 Interested in building real-world software solutions<br>
   
 
 - 📫 How to reach me **sahithyapadival@gmail.com**
