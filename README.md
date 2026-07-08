@@ -94,3 +94,21 @@
 </a>
 
 </p>
+
+<h3 align="left">AI & NLP:</h3>
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+</a>
+
+</p>
+
+<p align="left">
+Retrieval-Augmented Generation (RAG) • Natural Language Processing (NLP) • Large Language Models (LLMs)
+</p>
