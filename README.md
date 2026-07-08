@@ -1,5 +1,24 @@
+<!-- <h1 align="center">Hi 👋, I'm Sahithya D</h1>
+<h3 align="center">A passionate frontend developer </h3> -->
 <h1 align="center">Hi 👋, I'm Sahithya D</h1>
-<h3 align="center">A passionate frontend developer </h3>
+
+<h3 align="center">
+Full Stack Developer | React.js • Next.js • Python • AI/NLP 🚀
+</h3>
+
+<p align="center">
+Building modern web applications and exploring AI-powered solutions.
+</p>
+
+## 👨‍💻 About Me
+
+- 🎓 MCA Graduate passionate about software development
+- 💻 Aspiring Full Stack Developer building modern web applications
+- 🚀 Hands-on experience with React.js, Next.js, Python, Django, and REST APIs through projects
+- 🤖 Exploring AI, NLP, and Retrieval-Augmented Generation (RAG)
+- 🌱 Continuously learning new technologies and improving my development skills
+- 💡 Interested in building real-world software solutions
+
 
 - 📫 How to reach me **sahithyapadival@gmail.com**
 
