@@ -161,7 +161,7 @@ Building modern web applications and exploring AI-powered solutions.
 
 </p>
 
-<h3 align="left">AI & NLP:</h3>
+<!-- <h3 align="left">AI & NLP:</h3>
 
 <p align="left">
 
@@ -183,4 +183,18 @@ Building modern web applications and exploring AI-powered solutions.
 
 <p align="left">
 Retrieval-Augmented Generation (RAG) • Natural Language Processing (NLP) • Large Language Models (LLMs)
+</p> -->
+
+## 🤖 AI & NLP
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-008080?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Applications-FF6F00?style=for-the-badge&logo=chatbot&logoColor=white"/>
+
 </p>
