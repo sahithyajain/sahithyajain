@@ -2,13 +2,9 @@
 <h3 align="center">A passionate frontend developer </h3> -->
 <h1 align="center">Hi 👋, I'm Sahithya D</h1>
 
-<h3 align="center">
-Full Stack Developer | React.js • Next.js • Python • AI/NLP 🚀
-</h3>
+<h3 align="center">Full Stack Developer 🚀</h3>
 
-<p align="center">
-Building modern web applications and exploring AI-powered solutions.
-</p>
+<p align="center">Building modern web applications and exploring AI-powered solutions.</p>
 
 ## 👨‍💻 About Me
 
