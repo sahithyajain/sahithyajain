@@ -195,6 +195,6 @@ Retrieval-Augmented Generation (RAG) • Natural Language Processing (NLP) • L
 
 <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Applications-FF6F00?style=for-the-badge&logo=chatbot&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Applications-FF6F00?style=for-the-badge&logo=chatbot&logoColor=white"/> -->
 
 </p>
