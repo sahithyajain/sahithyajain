@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Graduate passionate about software development
+- 🎓 MCA Graduate <!--passionate about software developmen-->t
 - 💻 Aspiring Full Stack Developer building modern web applications
 - 🌱 Continuously learning new technologies and improving my development skills
 - 💡 Interested in building real-world software solutions<br>
