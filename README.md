@@ -22,8 +22,9 @@
 </p>
 
 ## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/sahithya-d/sahithya-d/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahithyajain/sahithyajain/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <!--old(from start)-->
 <!-- <h3 align="left">Languages and Tools:</h3>
